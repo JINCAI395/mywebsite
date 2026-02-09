@@ -1,0 +1,145 @@
+{
+    "profile": {
+        "name": "瑾裁JINCAI",
+        "title": "人体染色体释放工程专家",
+        "description": "热爱释放人体染色体",
+        "avatar": "https:\/\/q1.qlogo.cn\/g?b=qq&nk=1982710571&s=640",
+        "siteName": "JINCAI-个人主页"
+    },
+    "about": {
+        "content": [
+            "我是一名热爱LUGUAN的开发者。在过去的几年里，我一直录。",
+            "我相信录不仅仅是体感上的享受，更是情绪的释放。每一次录，我都会倾注全部的力量。",
+            "当我不在录的时候，我会打开QQ群看群友搬的史。"
+        ],
+        "stats": {
+            "projects": 999999,
+            "experience": 0,
+            "clients": 350234
+        }
+    },
+    "skills": [
+        {
+            "id": 1,
+            "name": "HTML \/ CSS",
+            "icon": "fab fa-html5",
+            "description": "语义化 HTML5，响应式设计，CSS3 动画与布局",
+            "progress": 95
+        },
+        {
+            "id": 2,
+            "name": "JavaScript",
+            "icon": "fab fa-js-square",
+            "description": "ES6+, TypeScript, 前端框架开发",
+            "progress": 90
+        },
+        {
+            "id": 3,
+            "name": "React \/ Vue",
+            "icon": "fab fa-react",
+            "description": "组件化开发, 状态管理, 单页应用",
+            "progress": 88
+        },
+        {
+            "id": 4,
+            "name": "Node.js",
+            "icon": "fab fa-node-js",
+            "description": "Express, Koa, RESTful API 开发",
+            "progress": 85
+        },
+        {
+            "id": 5,
+            "name": "Python",
+            "icon": "fab fa-python",
+            "description": "Django, Flask, 数据分析与自动化",
+            "progress": 82
+        },
+        {
+            "id": 6,
+            "name": "UI\/UX 设计",
+            "icon": "fas fa-palette",
+            "description": "Figma, 用户体验设计, 原型制作",
+            "progress": 80
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "电商平台设计",
+            "description": "一个现代化的电商网站，支持多种支付方式和响应式设计",
+            "image": "https:\/\/picsum.photos\/seed\/project1\/600\/400",
+            "tags": [
+                "React",
+                "Node.js",
+                "MongoDB"
+            ],
+            "demoUrl": "#",
+            "codeUrl": "#"
+        },
+        {
+            "id": 2,
+            "title": "任务管理应用",
+            "description": "简洁高效的任务管理工具，支持团队协作和实时同步",
+            "image": "https:\/\/picsum.photos\/seed\/project2\/600\/400",
+            "tags": [
+                "Vue.js",
+                "Firebase",
+                "Tailwind"
+            ],
+            "demoUrl": "#",
+            "codeUrl": "#"
+        },
+        {
+            "id": 3,
+            "title": "社交媒体仪表盘",
+            "description": "社交媒体数据分析平台，可视化展示各平台数据统计",
+            "image": "https:\/\/picsum.photos\/seed\/project3\/600\/400",
+            "tags": [
+                "Python",
+                "D3.js",
+                "PostgreSQL"
+            ],
+            "demoUrl": "#",
+            "codeUrl": "#"
+        }
+    ],
+    "contact": {
+        "email": "jincai395@outlook.com",
+        "phone": "咋地，还想要我电话？",
+        "location": "咋地，还想知道我地址？",
+        "wechat": "咋地，还想要我微信？"
+    },
+    "social": [
+        {
+            "id": 1,
+            "platform": "GitHub",
+            "icon": "fab fa-github",
+            "url": "https:\/\/github.com"
+        },
+        {
+            "id": 2,
+            "platform": "微博",
+            "icon": "fab fa-weibo",
+            "url": "https:\/\/weibo.com"
+        },
+        {
+            "id": 3,
+            "platform": "LinkedIn",
+            "icon": "fab fa-linkedin-in",
+            "url": "https:\/\/linkedin.com"
+        },
+        {
+            "id": 4,
+            "platform": "Twitter",
+            "icon": "fab fa-twitter",
+            "url": "https:\/\/twitter.com"
+        }
+    ],
+    "messages": [],
+    "settings": {
+        "theme": "auto",
+        "autoThemeLight": "06:00",
+        "autoThemeDark": "18:00"
+    },
+    "updated_at": "2026-02-10 00:01:32"
+}
